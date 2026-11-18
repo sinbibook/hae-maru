@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-05T11:57:44.548634311Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-18T04:39:36.309172164Z",
     "templateType": "trip_b",
     "propertyId": "17495faa-62d9-4749-ba30-c9e3e545645d",
     "homepageId": "01a1a490-37b5-767a-bcd2-04061fa6823b"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분",
-    "usageGuide": "- 실내실외 난간 기대거나 매달리기 금지\n- 양초, 폭죽, 부탄가스 등 화재 위험물 사용 불가\n- 연박 시 분실 위험으로 청소 불가\n- 유실물은 1주일 보관 후 폐기\n- 시설 훼손파손 시 실비 변상\n- 부주의 사고는 펜션에서 책임지지 않음\n- 모든 이용 수칙규정은 해마루펜션 홈페이지 기준\n- 20대 4인 이상 단체 예약 불가 (공지 미확인 시에도 입실 불가)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 펜션의 객실요금은 객실의 기준인원이 이용할 수 있는 요금이며 기준인원이 넘어가는 추가인원에 대한 비용은 당일 현장에서 결제하셔야 합니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 기본 2인 20,000원, 추가 1인당 5,000원 (1박기준/현장결제)\n※ 숯, 전기그릴 개인지참 불가\n※ 실내에서 고기굽는 행위 절대 불가\n\n[공용수영장]\n- 운영 기간: 2026년 6월 6일 ~ 9월 27일\n- 수영장 크기: 8 x 6 x 1 (m)\n※ 09~10시/15~20시\n※ 영유아, 어린이는 보호자 동반 필수\n※ 모자 착용 필수\n※ 영유아 어린이는 반드시 보호자와 함께 이용\n\n[애견동반]\n- 이용 요금: 10kg 이하 20,000원, 10kg 이상 50,000원 (1마리당) (1박기준/현장결제) \n- 제한 무게: 없음(10키로 이상은 예약전 펜션에 연락 주세요)\n- 반려동물 허용 종류: 반려견 및 반려묘 가능 \n※ 이외일 경우 펜션으로 문의주세요\n- 제한 사항: 반려인이 통제 가능하고 사회성이 있다면 제한을 두지 않습니다.\n- 애견 비품: 배변패드, 밥그릇 제공 \n※ 반려견 사고 시 펜션에서 책임지지 않음\n\n[부대시설]\n[2026 리뉴얼 안내] \n※ 전 객실 바닥 펫장판 시공했어요 ( 우리 댕댕이들 슬개골 미끄러짐 방지)\n※ 잔디마당 확장으로 댕댕이들 뛰어 놀 공간이 더 넓어졌어요\n※ 객실 내부+화장실 리모델링으로 더욱더 쾌적해졌어요\n※ 반려견 수영장 업그레이드 되어 아이들 수영하기 좋게 더 깊고 커졌어요\n\n[갯벌체험센터 운영중지]\n- 갯벌체험: 강화 갯벌센터 도보 5분 (문의: 032-930-7064)\n- 갯벌체험 모자 착용 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 차량 10분 거리 동막해수욕장\n- 도보 1분 슈퍼\n- 차량 20분 거리 온수리 시내 마트 다수",
+    "usageGuide": "[공지사항]\n- 실내실외 난간 기대거나 매달리기 금지\n- 양초, 폭죽, 부탄가스 등 화재 위험물 사용 불가\n- 연박 시 분실 위험으로 청소 불가\n- 유실물은 1주일 보관 후 폐기\n- 시설 훼손파손 시 실비 변상\n- 부주의 사고는 펜션에서 책임지지 않음\n- 모든 이용 수칙규정은 해마루펜션 홈페이지 기준\n- 20대 4인 이상 단체 예약 불가 (공지 미확인 시에도 입실 불가)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 펜션의 객실요금은 객실의 기준인원이 이용할 수 있는 요금이며 기준인원이 넘어가는 추가인원에 대한 비용은 당일 현장에서 결제하셔야 합니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 기본 2인 20,000원, 추가 1인당 5,000원 (1박기준/현장결제)\n※ 숯, 전기그릴 개인지참 불가\n※ 실내에서 고기굽는 행위 절대 불가\n\n[공용수영장]\n- 운영 기간: 2026년 6월 6일 ~ 9월 27일\n- 수영장 크기: 8 x 6 x 1 (m)\n※ 09~10시/15~20시\n※ 영유아, 어린이는 보호자 동반 필수\n※ 모자 착용 필수\n※ 영유아 어린이는 반드시 보호자와 함께 이용\n\n[애견동반]\n- 이용 요금: 10kg 이하 20,000원, 10kg 이상 50,000원 (1마리당) (1박기준/현장결제) \n- 제한 무게: 없음(10키로 이상은 예약전 펜션에 연락 주세요)\n- 반려동물 허용 종류: 반려견 및 반려묘 가능 \n※ 이외일 경우 펜션으로 문의주세요\n- 제한 사항: 반려인이 통제 가능하고 사회성이 있다면 제한을 두지 않습니다.\n- 애견 비품: 배변패드, 밥그릇 제공 \n※ 반려견 사고 시 펜션에서 책임지지 않음\n\n[부대시설]\n[2026 리뉴얼 안내] \n※ 전 객실 바닥 펫장판 시공했어요 ( 우리 댕댕이들 슬개골 미끄러짐 방지)\n※ 잔디마당 확장으로 댕댕이들 뛰어 놀 공간이 더 넓어졌어요\n※ 객실 내부+화장실 리모델링으로 더욱더 쾌적해졌어요\n※ 반려견 수영장 업그레이드 되어 아이들 수영하기 좋게 더 깊고 커졌어요\n\n[갯벌체험센터 운영중지]\n- 갯벌체험: 강화 갯벌센터 도보 5분 (문의: 032-930-7064)\n- 갯벌체험 모자 착용 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 차량 10분 거리 동막해수욕장\n- 도보 1분 슈퍼\n- 차량 20분 거리 온수리 시내 마트 다수",
     "reservationGuide": "- 실내실외 난간 기대거나 매달리기 금지\n- 양초, 폭죽, 부탄가스 등 화재 위험물 사용 불가\n- 연박 시 분실 위험으로 청소 불가\n- 유실물은 1주일 보관 후 폐기\n- 시설 훼손파손 시 실비 변상\n- 부주의 사고는 펜션에서 책임지지 않음\n- 모든 이용 수칙규정은 해마루펜션 홈페이지 기준\n- 20대 4인 이상 단체 예약 불가 (공지 미확인 시에도 입실 불가)",
     "province": "도/시",
     "city": "시/군/구",
@@ -365,7 +365,7 @@
           {
             "id": "e85c38e3-bf83-493d-8382-1210f8631944",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/T1Ni3udfB4U5.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +375,7 @@
           {
             "id": "f42ed395-2579-416a-87c0-02287dc2447d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/0sHI4wUjNtAc.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +383,7 @@
           {
             "id": "c29e4aed-723a-406d-9a8c-0d21b7dcfceb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/2AouHfmd1rpY.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -391,7 +391,7 @@
           {
             "id": "2b6860cb-7372-4ed8-b070-68dd66bcf708",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/pg7bNJChLHlj.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -399,7 +399,7 @@
           {
             "id": "7c36fbff-a6f1-41ca-85fe-915f4b8874bb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/tasjq7R0wPV1.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -407,7 +407,7 @@
           {
             "id": "fa6845fd-af10-4c84-b442-c9c03be38cbc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/UTWxfwPSjqFG.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -415,7 +415,7 @@
           {
             "id": "91f935fd-d20e-4dcc-8804-af3da37888d2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/TzewAZ2tKPHY.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -423,7 +423,7 @@
           {
             "id": "508f3803-eb42-4d84-b64e-f697707fdc29",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/pyf87XFmikqB.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -431,7 +431,7 @@
           {
             "id": "c1857823-2c91-41ea-84f4-dfc927ba888d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/J31Bjr7nQkYT.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -439,7 +439,7 @@
           {
             "id": "ecf10d89-8b15-4b78-9f96-0869a91481a3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/c4PaUL6nYuzw.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -447,7 +447,7 @@
           {
             "id": "e90f01b6-c5de-4d95-8674-3f23043bccdc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/WvPTGBqMeQDR.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -455,7 +455,7 @@
           {
             "id": "bf0fc52e-8e0f-4aeb-8865-e0e3c0eba643",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/03/ijK3rEPYzQd2.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2942,7 +2942,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
